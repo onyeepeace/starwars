@@ -33,4 +33,12 @@ $ yarn start
 # Open your terminal and paste the following:
 $ yarn test
 ```
+
+### Build production version of application for deployment
+```
+# Run build command in your terminal
+$ yarn build
+
+# A build folder will be generated and application is ready for deployment
+```
 The application can be deployed on Netlify or Vercel.
