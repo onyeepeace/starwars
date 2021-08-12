@@ -19,7 +19,7 @@ export type ICharacters = {
 };
 
 export const characters = (name: string) => {
-  const url = `http://swapi.dev/api/people/?search=${name}`;
+  const url = `https://swapi.dev/api/people/?search=${name}`;
   const fetchResult = axios
     .get(url)
     .then((res) => {
