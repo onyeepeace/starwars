@@ -2,8 +2,8 @@
 This is a web application built with ReactJS, TypeScript and the [Star Wars API](https://swapi.dev/api). It can be used to view details about different Star Wars characters.
 View it here [StarWars](https://starwarsdetails.netlify.app/)
 
-**What you can do on Timelog**
-- Enter the name of character
+**What you can do on the app**
+- Enter the name of the character
 - View details about the character
 
 ### Steps to clone this project to your local machine
