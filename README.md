@@ -1,5 +1,5 @@
 ## A web app to view details about different Star Wars characters
-Timelog is a web application built with ReactJS, TypeScript and the [Star Wars API](https://swapi.dev/api). It can be used to view details about different Star Wars characters.
+This is a web application built with ReactJS, TypeScript and the [Star Wars API](https://swapi.dev/api). It can be used to view details about different Star Wars characters.
 View it here [StarWars](https://starwarsdetails.netlify.app/)
 
 **What you can do on Timelog**
